@@ -3,6 +3,7 @@ Complete dataset will be shared soon...
 
 Folder Structure
 
+```plaintext
 Ground Truths
     -sen2air
         train.csv
@@ -38,6 +39,6 @@ Sentinel5P
             file1.nc
             file2.nc
             ...
-
+```
 
     
