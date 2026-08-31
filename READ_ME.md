@@ -1,9 +1,9 @@
-Complete dataset will be shared soon...
+## Sen2Air and SentX-Air: Datasets and Benchmarks for Air Pollutant Estimation
 ![Data Collection Process](image.png)
 
-Folder Structure
-
 ```plaintext
+Complete dataset will be shared soon...
+Folder Structure
 Ground Truths
     -sen2air
         train.csv
